@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea 2</string>
+    <string name="app_text_edit">Ingresar Nombre</string>
+    <string name="app_button_next">Continuar</string>
+</resources>
